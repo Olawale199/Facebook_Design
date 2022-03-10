@@ -1,0 +1,40 @@
+header{
+}
+.image{
+    position: relative;
+}
+.image img{
+    max-width: 900px;
+    width: auto;
+    max-height: 1fr;
+}
+.image .welcome{
+    position: absolute;
+    left: 0;
+    top: 200px;
+}
+/* h1{ 
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    text-shadow: #8fad07;
+    border:1px dashed slategrey;
+    background-color: snow;
+    background-size: 1px;
+    background-position: center;
+    color: thistle;
+}
+image{
+   position: abolute;
+   l
+    border: 1px solid #336899;
+    border-radius:7px;
+    padding: 15px;
+    width: 900px;
+}
+.welcome{
+    color: rgb(255, 230, 0);
+    font-size: large;
+    font-family: Arial;
+    font-weight: 100px;
+}*/
